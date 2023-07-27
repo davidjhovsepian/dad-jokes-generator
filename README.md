@@ -36,7 +36,7 @@ To run the Dad Joke Generator locally, follow these simple steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/dad-joke-generator.git
+   git clone https://github.com/davidjhovsepian/dad-joke-generator.git
    ```
 
 2. Navigate to the project directory:
